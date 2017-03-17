@@ -1,0 +1,7 @@
+#Fri Mar 17 10:14:13 ICT 2017
+base.0=/Users/dw/Desktop/AndroidStudioProjects/android-lab5-tuandaniel-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_234970b1a9adc555b9cb352eed10625d33d88f3e
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/dw/Desktop/AndroidStudioProjects/android-lab5-tuandaniel-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f0891216ccd43402e1ad12b40e30d34df7e97bb8/classes.dex
+base.1=/Users/dw/Desktop/AndroidStudioProjects/android-lab5-tuandaniel-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f0891216ccd43402e1ad12b40e30d34df7e97bb8
+file.0=/Users/dw/Desktop/AndroidStudioProjects/android-lab5-tuandaniel-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_234970b1a9adc555b9cb352eed10625d33d88f3e/classes.dex
